@@ -2,7 +2,9 @@
 L’étude de pathologies telles les anévrismes intracrâniens nécessite l’utilisation d’une grande variété de données et la conception de protocoles d’analyse complexes. La diversité de leurs implémentations rend leur maintenance et partage difficile et limite la confiance des biologistes dans les données produites. Reproduire et réutiliser les protocoles est pourtant crucial pour comparer systématiquement les résultats biologiques, adapter des protocoles à de nouvelles problématiques et répondre aux exigences des plans de gestion de données. R2-P2 fournit (i) une large bibliothèque de protocoles organisés, (ii) un module de conception et d’exécution de protocoles reproductibles, réutilisables et citables (conception d’algorithmes d’indexation et de recherche efficace de motifs dans les graphes formés par les workflows implémentant les protocoles), (iii) une évaluation de l’approche sur de nouveaux jeux de données et (iv) un ensemble de critères FAIR pour les protocoles.
 
 ![](https://github.com/R2-P2/r2p2/blob/gh-pages/R2-P2.jpg)
+
 *By Lucie Biton*
+
 *This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 2.0 France License.*
 
 ## Objectifs du projet
